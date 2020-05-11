@@ -24,7 +24,6 @@ This is the logged in page in the app
 
 ![App](loggedin.jpeg)
 
-
 # Authors:
 Srinidhi Ayyagari
 
