@@ -1,4 +1,4 @@
-# AuthenticationAppWithFirebasse
+# Authentication App With Firebase
 A simple authentication application developed on Android Studio.
 The user can sign up with name, email id, and a password. The email field cannot be empty. The password must be at least six characters long. 
 All the credentials are sent to firebase accountand to login the credentials must be matched by firebase.
